@@ -26,3 +26,8 @@ source /usr/local/bin/virtualenvwrapper.sh
 pyenv install 3.8.9
 pyenv global 3.8.9
 </pre>
+
+<pre>
+pip install --no-input keyring
+pip install --no-input keyrings.google-artifactregistry-auth
+</pre>
