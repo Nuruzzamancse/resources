@@ -15,3 +15,5 @@
 "JavaScript is *synchrouous* **single-threaded** language"
 - *synchrouous* (when one command finish then go next command)
 - **single-threaded** (execute one command at a time)
+
+## Hoisting
